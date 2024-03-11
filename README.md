@@ -1,5 +1,5 @@
 # Foodsnap v1
-Made this project for a school project. This app is designed for food journaling, calorie tracking, and various other features (BMI Calculator, Calorie Calculator, Water Intake tracker, Recipe API Lookup and Location finder) to promote a healthy and active lifestyle. This is a huge project I've made in just 5 days before the project deadline, and it has drained me of my sanity. The files you are looking at now is a update of the project, with improved UI and UX and some extra other features. Well, the update was made in changes from the original version in training for WorldSkills. I am thinking of making a second version of this app, with much more improvements to this app and features I wanted to add, so hopefully I can complete it...
+An app made to keep track of your daily calorie intake and other health metrics with extra features including recipe search and location lookup. Uncompleted, thinking of making a revised version of the app.
 
 ## Getting Started
 
