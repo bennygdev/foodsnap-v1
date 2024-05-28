@@ -1,6 +1,8 @@
 # Foodsnap v1
 An app made to keep track of your daily calorie intake and other health metrics with extra features including recipe search and location lookup. Uncompleted, thinking of making a revised version of the app.
 
+NOTE: Copying this project for your project will make you fail your module. You have been warned by the lecturers.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
